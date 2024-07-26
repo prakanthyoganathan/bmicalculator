@@ -89,7 +89,7 @@ button:hover {
 }
 
 .data button:nth-of-type(2):hover{
-  background-color: red;
+  background-color: rgb(198, 30, 30);
   margin-left: 10px;
 
 }
